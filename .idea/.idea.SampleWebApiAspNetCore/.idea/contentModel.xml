@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_SampleWebApiAspNetCore.-265143645.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SampleWebApiAspNetCore" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="v1" t="Include">
+            <e p="FoodsController.cs" t="Include" />
+          </e>
+          <e p="v2" t="Include">
+            <e p="FoodsController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Dtos" t="Include">
+          <e p="FoodCreateDto.cs" t="Include" />
+          <e p="FoodItemDto.cs" t="Include" />
+          <e p="FoodUpdateDto.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="FoodItem.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="DynamicExtensions.cs" t="Include" />
+          <e p="QueryParametersExtensions.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="LinkDto.cs" t="Include" />
+          <e p="QueryParameters.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="SampleWebApiAspNetCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="EfFoodRepository.cs" t="Include" />
+          <e p="FoodDbContext.cs" t="Include" />
+          <e p="IFoodRepository.cs" t="Include" />
+        </e>
+        <e p="SampleWebApiAspNetCore.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include">
+          <e p="ISeedDataService.cs" t="Include" />
+          <e p="SeedDataService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="SampleWebApiAspNetCore.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
